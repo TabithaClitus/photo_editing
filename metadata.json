@@ -1,0 +1,5 @@
+{
+  "name": "STANfx",
+  "description": "STANfx: An innovative, in-browser photo editing application powered by the Gemini API. It offers a full suite of editing tools, from basic adjustments to advanced AI-driven features like object removal, background replacement, and prompt-based image generation, all while storing your work locally in your browser.",
+  "requestFramePermissions": []
+}
